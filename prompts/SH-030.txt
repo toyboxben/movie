@@ -1,9 +1,0 @@
-SHOT: A procession of two dozen identical small printed figures moves through the market carrying one single enormous key above their heads, chanting.
-
-CAMERA: 35mm lens, lateral track, camera positioned very low at toy eye height, roughly 40mm off the ground.
-
-ENVIRONMENT: a dense crowded market street inside a shanty-city of printed plastic — narrow, canopied with mismatched awnings, stalls stacked three levels high on scaffolding, strung with lines of small glowing beads. The street is packed with living printed plastic objects at wildly mismatched scales, each a different single flat filament colour, all with visible horizontal 3D-printed layer striations — keychains, bag clips, cable organisers, tiny planters, phone stands, hooks and brackets, all animate and jostling. Stalls sell ladled cups of glowing molten material, spare struts, loose beads. Honey-gold late afternoon light slanting between the awnings from camera left, warm dust, deep amber shadow.
-
-STYLE: painterly 3D animation, hand-painted textures over dimensional forms, visible brushstroke in the shadows, thick graphic silhouettes, painted volumetric light, rich saturated color with deep teal shadows and warm amber key light, cinematic depth of field, subtle film grain, 24fps, 21:9 cinematic framing. High contrast rim lighting separating subject from background. No text, no logos, no watermarks, no subtitles.
-
-NEGATIVE: photorealistic, live action, uncanny realistic human skin, glossy plastic CGI sheen, flat even lighting, muddy desaturated color, extra fingers, deformed hands, warped face, morphing features, text, watermark, logo, subtitles, vertical framing, blurry low-detail background, anime, flat cel shading
