@@ -1,0 +1,19 @@
+SHOT: On the river. Benchy carries them downstream. Kit sits at the bow with his back to everyone, looking ahead. Benchy's porthole glows behind him. Neither of them looks at the other.
+
+CAMERA: 50mm lens, locked off, camera positioned very low at toy eye height, roughly 40mm off the ground.
+
+KIT: an 11-year-old Black boy, dark brown skin, round open face, a light scattering of freckles across the nose, large dark brown eyes, a small nose, and a wide friendly smile. Short densely curled black hair faded on the sides and taller on top. He wears a bright saturated yellow pullover hoodie with a kangaroo pocket, ribbed cuffs, and the hood down; dark teal cargo shorts with large side pockets; white ribbed crew socks; and bright red high-top canvas sneakers with white laces and white rubber soles. A dark grey messenger bag with a single strap crossing from his left shoulder to his right hip. A thick red marker with a white band tucked behind his right ear. Kit's skin is smooth with no ring lines at all, in deliberate contrast to the visible stacked horizontal 3D-printed layer striations on every other character.
+
+BENCHY: a small chunky tugboat character about the size of a human hand, made of printed plastic in weathered sea-green and cream, with a squat rounded hull, a single square wheelhouse with one round porthole window and one rectangular window, a short smokestack and a low chimney. Pronounced horizontal 3D-printed layer striations across the entire hull catching the light in bands. Scuffed, salt-crusted, dried residue along the waterline, one corner of the bow chipped away. He has no face and no mouth — he expresses entirely through the tilt of his hull and the glow behind his porthole, which brightens when he speaks.
+
+Toy characters move with slightly stepped, on-twos animation.
+
+A wide streak of dried teal material stains his right sleeve and hoodie pocket.
+
+ENVIRONMENT: a wide slow river of warm glowing semi-molten material, its colour shifting along its length from amber to deep teal, moving between low banks of pale glassy ground scattered with printed plastic debris. Glowing reflections on everything. The vast wooden underside of a desk hangs impossibly far overhead in golden haze. Honey-gold late afternoon light from camera left.
+
+On the far horizon a colossal nozzle hangs motionless and dark from the sky, frozen mid-line, a half-finished glowing shape cooling beneath it.
+
+STYLE: painterly 3D animation, hand-painted textures over dimensional forms, visible brushstroke in the shadows, thick graphic silhouettes, painted volumetric light, rich saturated color with deep teal shadows and warm amber key light, cinematic depth of field, subtle film grain, 24fps, 21:9 cinematic framing. High contrast rim lighting separating subject from background. No text, no logos, no watermarks, no subtitles.
+
+NEGATIVE: photorealistic, live action, uncanny realistic human skin, glossy plastic CGI sheen, flat even lighting, muddy desaturated color, extra fingers, deformed hands, warped face, morphing features, text, watermark, logo, subtitles, vertical framing, blurry low-detail background, anime, flat cel shading

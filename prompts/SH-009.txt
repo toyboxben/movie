@@ -1,0 +1,9 @@
+SHOT: Looking straight down into the open drawer. Forty abandoned half-built robot dogs. Nothing in it is finished.
+
+CAMERA: 35mm lens, slow push in, camera high above looking down.
+
+ENVIRONMENT: an open desk drawer seen from above, crammed with dozens of abandoned half-built printed plastic robot dog parts — heads with no bodies, single legs, torsos that stop abruptly mid-layer, chassis with no limbs, all in mismatched filament colours, piled on top of a thick layer of folded and crumpled pencil sketches. Nothing in the drawer is complete. Cool blue light from above, deep shadow in the depths of the drawer.
+
+STYLE: painterly 3D animation, hand-painted textures over dimensional forms, visible brushstroke in the shadows, thick graphic silhouettes, painted volumetric light, rich saturated color with deep teal shadows and warm amber key light, cinematic depth of field, subtle film grain, 24fps, 21:9 cinematic framing. High contrast rim lighting separating subject from background. No text, no logos, no watermarks, no subtitles.
+
+NEGATIVE: photorealistic, live action, uncanny realistic human skin, glossy plastic CGI sheen, flat even lighting, muddy desaturated color, extra fingers, deformed hands, warped face, morphing features, text, watermark, logo, subtitles, vertical framing, blurry low-detail background, anime, flat cel shading

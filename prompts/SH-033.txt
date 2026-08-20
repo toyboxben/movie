@@ -1,0 +1,19 @@
+SHOT: A stack of ten blocks topples into frame and restacks itself in front of Kit. Different horizontal slots light up as different layers speak, interrupting each other constantly.
+
+CAMERA: 50mm lens, locked off, camera positioned very low at toy eye height, roughly 40mm off the ground.
+
+THE TOWER: a stack of exactly ten cube-shaped printed blocks balanced one on top of another, about three feet tall, each block roughly the size of a fist. The stack shifts in quality from bottom to top: the lowest blocks are sharp-edged, matte, pale grey and slightly under-extruded with visible gaps between layer lines; the middle blocks are clean and well-formed in warming amber tones; the upper blocks become progressively glossier, sagging, over-extruded and drooping at the corners, trailing wispy strands; the topmost block is a shapeless melted blob of dark amber plastic. Each block has a single horizontal slot across its front which glows from within when that layer speaks. No arms, no legs, no face. The stack sways and rebalances constantly.
+
+KIT: an 11-year-old Black boy, dark brown skin, round open face, a light scattering of freckles across the nose, large dark brown eyes, a small nose, and a wide friendly smile. Short densely curled black hair faded on the sides and taller on top. He wears a bright saturated yellow pullover hoodie with a kangaroo pocket, ribbed cuffs, and the hood down; dark teal cargo shorts with large side pockets; white ribbed crew socks; and bright red high-top canvas sneakers with white laces and white rubber soles. A dark grey messenger bag with a single strap crossing from his left shoulder to his right hip. A thick red marker with a white band tucked behind his right ear. Kit's skin is smooth with no ring lines at all, in deliberate contrast to the visible stacked horizontal 3D-printed layer striations on every other character.
+
+Toy characters move with slightly stepped, on-twos animation.
+
+A wide streak of dried teal material stains his right sleeve and hoodie pocket.
+
+ENVIRONMENT: a dense crowded market street inside a shanty-city of printed plastic — narrow, canopied with mismatched awnings, stalls stacked three levels high on scaffolding, strung with lines of small glowing beads. The street is packed with living printed plastic objects at wildly mismatched scales, each a different single flat filament colour, all with visible horizontal 3D-printed layer striations — keychains, bag clips, cable organisers, tiny planters, phone stands, hooks and brackets, all animate and jostling. Stalls sell ladled cups of glowing molten material, spare struts, loose beads. Honey-gold late afternoon light slanting between the awnings from camera left, warm dust, deep amber shadow.
+
+Individual horizontal front slots on the stack glow warmly one at a time and sometimes several at once as each layer speaks.
+
+STYLE: painterly 3D animation, hand-painted textures over dimensional forms, visible brushstroke in the shadows, thick graphic silhouettes, painted volumetric light, rich saturated color with deep teal shadows and warm amber key light, cinematic depth of field, subtle film grain, 24fps, 21:9 cinematic framing. High contrast rim lighting separating subject from background. No text, no logos, no watermarks, no subtitles.
+
+NEGATIVE: photorealistic, live action, uncanny realistic human skin, glossy plastic CGI sheen, flat even lighting, muddy desaturated color, extra fingers, deformed hands, warped face, morphing features, text, watermark, logo, subtitles, vertical framing, blurry low-detail background, anime, flat cel shading

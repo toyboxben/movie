@@ -1,0 +1,13 @@
+SHOT: Kit alone in a silent room, looking at the screen. His hand rests on the mouse and does not move. For three full seconds he is visibly, quietly frightened. Then he breathes out and says one word.
+
+CAMERA: 85mm lens, shallow depth of field, slow push in, camera at the boy's own eye level.
+
+KIT: an 11-year-old Black boy, dark brown skin, round open face, a light scattering of freckles across the nose, large dark brown eyes, a small nose, and a wide friendly smile. Short densely curled black hair faded on the sides and taller on top. He wears a bright saturated yellow pullover hoodie with a kangaroo pocket, ribbed cuffs, and the hood down; dark teal cargo shorts with large side pockets; white ribbed crew socks; and bright red high-top canvas sneakers with white laces and white rubber soles. A dark grey messenger bag with a single strap crossing from his left shoulder to his right hip. A thick red marker with a white band tucked behind his right ear. Kit's skin is smooth with no ring lines at all, in deliberate contrast to the visible stacked horizontal 3D-printed layer striations on every other character.
+
+ENVIRONMENT: a small cluttered eleven-year-old boy's bedroom at night, seen at human scale. A wooden desk pushed against a window with cool blue moonlight falling across it from the left. On the desk sits a compact cube-shaped 3D printer with a glowing warm-orange interior chamber, the brightest light in the room, throwing hard orange light across the desk and up the wall. Beside it a crowded pen cup, scattered paper, a metal ruler, and a shelf above holding neatly arranged finished printed plastic models. The wall above the desk is covered in pinned-up pencil sketches of robots and machines, all of them clearly unfinished, several stopping mid-line into blank paper. A desk drawer hangs open, overstuffed. An unmade bed in the shadowed background. Warm dust in the air, deep teal shadows, single hot orange point light.
+
+Very still. Almost no motion in frame at all.
+
+STYLE: painterly 3D animation, hand-painted textures over dimensional forms, visible brushstroke in the shadows, thick graphic silhouettes, painted volumetric light, rich saturated color with deep teal shadows and warm amber key light, cinematic depth of field, subtle film grain, 24fps, 21:9 cinematic framing. High contrast rim lighting separating subject from background. No text, no logos, no watermarks, no subtitles.
+
+NEGATIVE: photorealistic, live action, uncanny realistic human skin, glossy plastic CGI sheen, flat even lighting, muddy desaturated color, extra fingers, deformed hands, warped face, morphing features, text, watermark, logo, subtitles, vertical framing, blurry low-detail background, anime, flat cel shading

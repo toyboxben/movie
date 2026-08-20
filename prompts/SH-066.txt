@@ -1,0 +1,9 @@
+SHOT: Figures come out of the dark. Broken, half-built, missing limbs. They stop at a polite distance, look, and stay. None of them want anything.
+
+CAMERA: 35mm lens, slow push in, camera positioned very low at toy eye height, roughly 40mm off the ground.
+
+ENVIRONMENT: a gathering of broken and half-built printed plastic figures standing quietly in near-darkness on a drift of discarded material — figures missing arms and legs, models with warped curled-up bases, shapes that simply stop mid-layer, things built at the wrong scale. They are not hostile or frightening; they stand gently and still, watching, waiting. Their filament colours are drained almost to grey. Near-monochrome charcoal, a single distant pale shaft of light from far above, faint rim light on their edges.
+
+STYLE: painterly 3D animation, hand-painted textures over dimensional forms, visible brushstroke in the shadows, thick graphic silhouettes, painted volumetric light, rich saturated color with deep teal shadows and warm amber key light, cinematic depth of field, subtle film grain, 24fps, 21:9 cinematic framing. High contrast rim lighting separating subject from background. No text, no logos, no watermarks, no subtitles.
+
+NEGATIVE: photorealistic, live action, uncanny realistic human skin, glossy plastic CGI sheen, flat even lighting, muddy desaturated color, extra fingers, deformed hands, warped face, morphing features, text, watermark, logo, subtitles, vertical framing, blurry low-detail background, anime, flat cel shading

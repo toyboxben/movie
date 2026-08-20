@@ -1,0 +1,13 @@
+SHOT: A single flat voice from the front of the crowd. June, two feet tall, standing perfectly still while everything around her cheers.
+
+CAMERA: 50mm lens, locked off, camera positioned very low at toy eye height, roughly 40mm off the ground.
+
+JUNE: a girl-shaped printed creature about two feet tall, clearly hand-designed and one-of-a-kind rather than mass-produced — an inventive original design with a rounded angular head, large expressive dark eyes, a small simple mouth, and a swept crest of sculpted material instead of hair. Her RIGHT side is fully complete: solid, beautifully finished, printed in deep plum and burnt orange with crisp stacked horizontal 3D-printed layer striations across every surface and a warm satin sheen. Her LEFT side is unfinished — a hollow open wireframe of thin translucent pale-grey struts tracing the outline of an arm, a shoulder, half a torso and half a leg, with nothing filled in, so you can see straight through her. The boundary between the two halves runs cleanly down her centre line. She moves with her solid side leading and holds the wireframe arm close to her body.
+
+Toy characters move with slightly stepped, on-twos animation.
+
+ENVIRONMENT: a wide open plaza in a printed plastic shanty-city, ringed by leaning scaffold towers with crowds packed onto every level of the surrounding balconies and walkways looking down into the centre. The plaza floor is warm glassy frosted plain. A low empty plinth stands off to one side. Strings of small glowing beads criss-cross overhead. Honey-gold late afternoon light from camera left, thousands of small mismatched filament colours in the watching crowd.
+
+STYLE: painterly 3D animation, hand-painted textures over dimensional forms, visible brushstroke in the shadows, thick graphic silhouettes, painted volumetric light, rich saturated color with deep teal shadows and warm amber key light, cinematic depth of field, subtle film grain, 24fps, 21:9 cinematic framing. High contrast rim lighting separating subject from background. No text, no logos, no watermarks, no subtitles.
+
+NEGATIVE: photorealistic, live action, uncanny realistic human skin, glossy plastic CGI sheen, flat even lighting, muddy desaturated color, extra fingers, deformed hands, warped face, morphing features, text, watermark, logo, subtitles, vertical framing, blurry low-detail background, anime, flat cel shading
