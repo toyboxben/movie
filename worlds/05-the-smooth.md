@@ -37,7 +37,8 @@ point. It should be uncomfortable to look at.
 - **The Hand restarts.**
 - **June.** Kit finishes her in the four seconds he has left, while she is mid-sentence
   telling him not to.
-- **He is yanked out.** The print completes and he goes, mid-word, without a goodbye.
+- **He is yanked out.** The way home opens the instant he finally lets a finished thing
+  stay in the world, and he goes mid-word, without a goodbye.
 
 ## The beat that could only happen here
 

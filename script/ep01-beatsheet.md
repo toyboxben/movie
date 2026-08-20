@@ -21,7 +21,7 @@ re-run `python production/build_prompts.py` and update this table.
 ## SEQ 01 — THE BEDROOM (0:00 – 1:35)
 
 **Function:** establish that Kit is genuinely good, then that he never finishes. Start the
-print. Cross the threshold.
+print. Open the doorway.
 
 | # | Beat |
 |---|---|
@@ -33,7 +33,7 @@ print. Cross the threshold.
 | 6 | **The drawer.** He opens it to find a part. Forty abandoned robot dogs. He closes it fast. One shot, no dialogue. |
 | 7 | **The quiet beat.** Alone. Cursor over PRINT. He is visibly scared. **This is the shot that makes him likeable. Do not cut it.** |
 | 8 | **The call.** He presses print. "Six hours. Tomorrow I bring a robot dog to school." |
-| 9 | **Threshold.** He leans in to watch the first layer. The chamber light pulses. He dissolves feet-first, layer by layer, into the machine. |
+| 9 | **Doorway.** The red pen answers him for the first time. One glowing stroke cuts the air open and he steps through. |
 
 **Out on:** an empty chair, the printer running, the figurine in the cup.
 
@@ -53,8 +53,8 @@ purpose. Sixty-five of these one hundred and ten seconds are a boy looking at a 
 | 5 | **The Hand.** On the horizon, building. Everybody watches it the way you watch weather. |
 | 6 | **Delight, not fear.** Kit's reaction is pure joy. He is the only character in film history to fall into another dimension and immediately start networking. |
 | 7 | **The worst sentence.** "I made all of you." Total horrified silence. A stall-holder starts crying. |
-| 8 | **The rules.** Benchy, four words at a time. You came in on a print. You leave when it finishes. |
-| 9 | **The clock.** Benchy points at the Hand. "That's yours. Six hours. Don't be late." |
+| 8 | **The rules.** Benchy, four words at a time. You came through a Maker's line. You get home by finishing something and letting the world keep it. |
+| 9 | **The clock.** Benchy points at the Hand. The thing Kit started in his room is now in the world, half-made, and everyone can feel the time running out. |
 | 10 | **The market.** Pure wonder montage. Five unexplained things at the edge of frame. |
 
 **Out on:** Kit, small, in an enormous street, grinning like an idiot.

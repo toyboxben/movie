@@ -10,7 +10,9 @@ Kit's room at night. Small, cluttered, lived in. A desk against the window with 
 on it, its chamber light the brightest thing in the room. The walls are covered in
 sketches — all of them good, all of them unfinished, several stopping mid-line into blank
 paper. A shelf of immaculate finished models, none of which he designed. A drawer that
-won't close because it is full of forty abandoned robot dogs.
+won't close because it is full of forty abandoned robot dogs. And tucked behind Kit's ear:
+a thick red pen he treats like nothing special until the moment it cuts a line through the
+air.
 
 The room does the character work before Kit says a word: **everything finished in here is
 somebody else's, and everything of his is unfinished.**
@@ -22,8 +24,8 @@ somebody else's, and everything of his is unfinished.**
 - **Call** — he starts the Colossus print. Six hours. "Tomorrow I bring a robot dog to school."
 - **The quiet beat** — alone, just before he commits, he is visibly scared. This is the
   shot that makes him likeable for the rest of the film. Do not cut it for time.
-- **Threshold** — the chamber light pulses and he dissolves into the machine, feet first,
-  layer by layer.
+- **Doorway** — the red pen answers him for the first time. One glowing stroke opens a cut
+  in the air and he steps through.
 - **Return (Seq 08)** — identical set-up, one thing different, and he presses print again.
 
 ## The plant
@@ -51,11 +53,11 @@ scale. A wooden desk pushed against a window with cool blue moonlight falling ac
 from the left. On the desk sits a compact cube-shaped 3D printer with a glowing
 warm-orange interior chamber, the brightest light in the room, throwing hard orange light
 across the desk and up the wall. Beside it a crowded pen cup, scattered paper, a metal
-ruler, and a shelf above holding neatly arranged finished printed plastic models. The wall
-above the desk is covered in pinned-up pencil sketches of robots and machines, all of them
-clearly unfinished, several stopping mid-line into blank paper. A desk drawer hangs open,
-overstuffed. An unmade bed in the shadowed background. Warm dust in the air, deep teal
-shadows, single hot orange point light.
+ruler, and a thick red pen. A shelf above holds neatly arranged finished printed plastic
+models. The wall above the desk is covered in pinned-up pencil sketches of robots and
+machines, all of them clearly unfinished, several stopping mid-line into blank paper. A
+desk drawer hangs open, overstuffed. An unmade bed in the shadowed background. Warm dust
+in the air, deep teal shadows, single hot orange point light.
 ```
 
 ## PLATE BLOCK — `WP-bedroom-drawer` — paste verbatim

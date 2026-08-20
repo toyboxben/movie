@@ -26,15 +26,15 @@ haze. And on the horizon, the Hand.
 sixty-five seconds and is almost plotless on purpose — wide shots, held long, a boy
 looking at a city. Do not put story in it.
 
-Then Seq 03 turns the same location into a stage: the pencil works, the crowd goes up, Kit
-is crowned The Maker, June cuts him down in public, and the Hand stops.
+Then Seq 03 turns the same location into a stage: the pen works, the crowd goes up, Kit is
+crowned The Maker, June cuts him down in public, and the Hand stops.
 
 ## The rules established here
 
 Through Kit breaking them, out loud, at volume — not through narration:
 
 - Saying **"I made all of you"** produces total horrified silence. It's the worst sentence
-  in the language.
+  in the language, especially from somebody who just arrived through a Maker's line.
 - The rivers are **potable, load-bearing, and sacred, in that order.** Kit drinks the
   river within four seconds of being told not to.
 - Telling somebody their print looks **"clean"** is a grave insult.
