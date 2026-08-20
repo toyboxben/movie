@@ -6,35 +6,36 @@
 
 ## Logline
 
-When eleven-year-old Kit finally starts printing the robot dog he's been promising
-everyone for a year, he's pulled inside the machine — into a world built from everything
-people have ever made — and learns he can only get home when the print completes. Then the
-print fails, and the only way out is to do the one thing he has never done: let something
-imperfect exist, in public, for other people.
+When eleven-year-old Kit uses a strange red pen to open a doorway into the hidden world
+where everything ever printed on a Toybox goes, he finds his half-finished robot dog
+already alive inside it — and when that world starts failing around him, the only way home
+is to do the one thing he has never done: let something imperfect exist, in public, for
+other people.
 
 ## The rule that makes it work
 
-**You go in when a print starts. You come out when it finishes.**
+**The pen can open the way in. A finished gift opens the way home.**
 
-That single rule does an enormous amount of work:
+That pair of rules does an enormous amount of work:
 
-- **The clock is built in.** A six-hour print is a six-hour adventure, and the countdown
-  is a progress bar in a bedroom.
-- **The trap has a reason.** Kit's print fails at forty percent. The door does not open
-  again until it completes, and it cannot complete, because it broke.
-- **The theme and the plot are the same object.** The door opens when a thing is in the
-  world, not when it is perfect. Kit has a drawer of almost-things nobody else has ever
-  seen. To get home he has to let one of them be seen.
-- **The series runs forever.** Every print is a door. Which also means other kids have
-  been here, over the years, and some of what they left behind is still walking around —
-  unfinished, crooked, and still being enjoyed.
+- **The clock is emotional instead of mechanical.** He can get into the Toybox instantly,
+  but he cannot get back out by force or by argument. The universe only answers an act of
+  completion.
+- **The trap has a reason.** Kit can make openings, sketches and prototypes all day. A way
+  home appears only when he gives the world something finished enough to be shared.
+- **The theme and the plot are the same object.** A thing enters the world when somebody
+  lets go of it. Kit has a drawer of almost-things nobody else has ever seen. To get home
+  he has to let one of them be seen.
+- **The series runs forever.** Every object ever printed on a Toybox arrives here. Which
+  also means other kids have been touching this world for years, and some of what they
+  left behind is still walking around — unfinished, crooked, and still being enjoyed.
 
 ## The world
 
-Everything anyone has ever printed lives in the Toybox: dinosaurs and mechs and dragons
-and chess pieces and a truly upsetting number of keychains, all of them alive, all of
-them somebody's idea. They are built from stacked rings — you can see the rings on
-everybody, like growth rings on a tree — and they are proud of them. A ring is a
+Everything anyone has ever printed on a Toybox lives in the Toybox: dinosaurs and mechs
+and dragons and chess pieces and a truly upsetting number of keychains, all of them
+alive, all of them somebody's idea. They are built from stacked rings — you can see the
+rings on everybody, like growth rings on a tree — and they are proud of them. A ring is a
 birthmark. It means a person made you, on a specific night, and got you slightly wrong.
 
 Above it all is the sky, which is the underside of a desk, impossibly far away. And on
@@ -48,10 +49,11 @@ stops.
 **KIT**, 11, is a genuinely gifted kid who is addicted to the moment right before you
 start, when the thing is still going to be amazing. He has told the entire school he is
 building a robot dog. He has forty unfinished robot dogs in a drawer. He carries a thick
-red marker behind his right ear; in the Toybox it is a wand — whatever he draws becomes
-real, the way a print becomes real, and when he fights, that is what he fights with.
-Inside the Toybox his enormous talk gets him crowned a legend within four minutes of
-arrival, and then he has to live up to it in front of people whose lives depend on it.
+red marker behind his right ear; it turns out not to be a marker at all but a maker's pen.
+It can cut a glowing line into the air and open the way into the Toybox, and once he is
+inside it works like a wand — whatever he draws becomes real. Inside the Toybox his
+enormous talk gets him crowned a legend within four minutes of arrival, and then he has to
+live up to it in front of people whose lives depend on it.
 
 **JUNE** is one of a kind. Some other kid designed her from scratch years ago and stopped
 halfway, and she has been living in the world unfinished ever since — one side complete
@@ -86,8 +88,8 @@ this world. A crooked thing in someone's hands is.
 
 Said out loud exactly once, by a boat, at the midpoint. Everything after that is behavior.
 
-The plot still needs the print to *complete* so Kit can go home. Completing, in this film,
-does not mean polishing. It means pressing the button and letting other people have it.
+The plot still needs Kit to *finish something* so he can go home. Finishing, in this film,
+does not mean polishing. It means letting other people have it.
 
 ## Why it sells Toybox
 

@@ -3,11 +3,11 @@
 A **10:10 animated pilot** for **Toybox.com**, generated shot by shot with Higgsfield and
 Seedance and assembled into one film. 86 shots.
 
-> **Logline.** When eleven-year-old Kit finally starts printing the robot dog he's been
-> promising everyone for a year, he's pulled inside the machine — into a world built from
-> everything people have ever made — and learns he can only get home when the print
-> completes. Then the print fails, and the only way out is to let something imperfect
-> exist, in public, for other people.
+> **Logline.** When eleven-year-old Kit uses a strange red pen to open a doorway into the
+> hidden world where everything ever printed on a Toybox goes, he finds his half-finished
+> robot dog already alive inside it — and when the world starts dying around him, the only
+> way home is to do the one thing he has never done: let something imperfect exist, in
+> public, for other people.
 
 ---
 

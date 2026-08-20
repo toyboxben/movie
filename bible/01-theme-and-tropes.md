@@ -10,9 +10,9 @@ execute it, so when a scene feels weak you can check which structural job it is 
 **Nothing is ever finished. The important thing is that you made it, and it is now part
 of this world for people to enjoy forever.**
 
-That is the sentence the whole film is proving. "Finish" is the *plot* word (the print
-has to complete or Kit never goes home). It is not the *moral*. Completing, here, means
-letting other people have the thing — crooked rings and all.
+That is the sentence the whole film is proving. "Finish" is the *plot* word (Kit has to
+let a thing enter the world or he never goes home). It is not the *moral*. Completing,
+here, means letting other people have the thing — crooked rings and all.
 
 | If a scene is saying… | It is wrong. Rewrite toward… |
 |---|---|
@@ -35,11 +35,11 @@ like a trailer. We complete it in ten minutes.
 |---|---|---|---|
 | Ordinary World | Kit's room. Real skill on display, then a drawer of forty abandoned projects. | 01 | 0:00–0:55 |
 | Call | He starts the print. Six hours. "Tomorrow I bring a robot dog to school." | 01 | 0:55–1:20 |
-| Threshold | The chamber light pulses and he dissolves into the machine, feet first, layer by layer. | 01 | 1:20–1:35 |
-| Meeting the Mentor | Benchy fishes him out of the filament river. The rule is explained. | 02 | 1:35–2:20 |
+| Threshold | The red pen cuts a glowing line through the air and Kit steps into it. | 01 | 1:20–1:35 |
+| Meeting the Mentor | Benchy fishes him out of the river after the bad landing. The rule is explained. | 02 | 1:35–2:20 |
 | The New World | The Raft. Wonder sequence. Minimal dialogue, maximum looking. | 02 | 2:20–3:25 |
 | Allies & the Crowning | The marker works. The crowd crowns him The Maker. June calls him a liar. | 03 | 3:25–4:30 |
-| **The Hand stops** | Mid-layer. The whole world looks up. His print has failed. | 03 | 4:30–4:50 |
+| **The Hand stops** | Mid-line. The whole world looks up. The world-changing machine has failed. | 03 | 4:30–4:50 |
 | Tests, Enemies | The crossing. Colossus finds him and he's ashamed. First sight of the smoothing. | 04 | 4:50–6:15 |
 | Approach / Midpoint | Gearhaven archive. The Hand was *stopped*, not broken. The Finisher introduces himself, kindly. | 05 | 6:15–7:25 |
 | The Ordeal | The Deep Bin. Kit can't commit to the line. Colossus is smoothed. He admits the truth. | 06 | 7:25–8:35 |

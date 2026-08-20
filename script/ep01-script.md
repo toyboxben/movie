@@ -10,8 +10,8 @@ height, calibration, slicer, supports, spaghetti, print bed. Nobody says them. E
 
 ## SEQ 01 — THE BEDROOM
 
-*Macro. A glowing line is laid down, one pass. The stepper-motor melody. We pull back
-through the chamber glass into —*
+*Macro. A red pen tip drags one glowing line across paper. It hangs in the air a second too
+long. The stepper-motor melody is somewhere underneath it. We pull back into —*
 
 *A small bedroom at night. KIT, 11, hunched at a desk, lit orange from the printer and
 blue from the window. He is modelling something on screen — fast, loose, absorbed. He is
@@ -67,13 +67,20 @@ move. He is, for exactly three seconds, visibly frightened.*
 
 **L-014 · KIT** — Six hours. *Tomorrow* — I bring a robot dog to school.
 
-*He leans in close to the glass to watch the first layer go down.*
+*He reaches for the thick red marker behind his ear and absently taps it against the desk.*
 
-*The chamber light pulses. Once.*
+*The tip flashes.*
 
-*Kit's sneakers dissolve into a lattice of glowing lines. Then his shins. He has time to
-look down, and then to look up, and then he is gone from the feet upward, layer by layer,
-into the machine.*
+*A glowing line hangs in the air where the pen touched. Kit freezes.*
+
+*The line widens into a thin vertical tear of amber light. Through it: moving colour.
+Distance. Water. The underside of a desk sky.*
+
+*Kit stares. Grins, despite himself.*
+
+*And because he is eleven and this is the greatest thing that has ever happened to him —*
+
+*— he steps through.*
 
 *The chair is empty. The printer runs. The white figurine sits in the pen cup.*
 
@@ -81,8 +88,8 @@ into the machine.*
 
 ## SEQ 02 — THE RAFT: ARRIVAL
 
-*Amber. Muffled. Slow. Warm light through a thick glowing medium — and Kit breaks the
-surface, gasping, dragging himself onto a plank dock.*
+*Amber. Muffled. Slow. Warm light through a thick glowing medium — and Kit stumbles out of
+an upright glowing cut in the air, misses the dock entirely, and drops into the river.*
 
 *A small weathered tugboat is watching him. BENCHY.*
 
@@ -137,20 +144,20 @@ quietly, to cry.*
 
 *Benchy noses in against the dock.*
 
-**L-024 · BENCHY** — You came in on a print.
+**L-024 · BENCHY** — You came through a Maker's line.
 
-**L-025 · KIT** — I — yeah. Yeah, I did.
+**L-025 · KIT** — I came through a what.
 
-**L-026 · BENCHY** — You go out when it finishes. Not before. Not early. Not if you ask
-nicely.
+**L-026 · BENCHY** — You go out when you finish something and let the world keep it. Not
+before. Not early. Not if you ask nicely.
 
-**L-027 · KIT** — How long have I got?
+**L-027 · KIT** — That is an insane sentence. How long have I got.
 
 *Benchy tilts, indicating the Hand on the horizon.*
 
 **L-028 · BENCHY** — That's yours. Six hours.
 
-**L-029 · KIT** — That's — wait, that's *mine*? That's my—
+**L-029 · KIT** — That's — wait, that's *mine*? That's my dog?
 
 **L-030 · BENCHY** — Don't be late. I'm not saying it twice.
 

@@ -6,7 +6,7 @@ between a world tour and a product carousel.
 
 | # | World | Category | Story function | Seq | Screen dir |
 |---|---|---|---|---|---|
-| 00 | [The Bedroom](00-the-bedroom.md) | the real world | Ordinary world, call, threshold, return | 01, 08 | — |
+| 00 | [The Bedroom](00-the-bedroom.md) | the real world | Ordinary world, call, doorway, return | 01, 08 | — |
 | 01 | [The Raft](01-the-raft.md) | everyday small prints | Wonder. Mentor. The crowning. | 02, 03 | L→R |
 | 02 | [Dino Basin](02-dino-basin.md) | dinosaurs & animals | The crossing. First sight of the smoothing. | 04 | L→R |
 | 03 | [Gearhaven](03-gearhaven.md) | robots, mechs, functional prints | Midpoint. The archive. The Finisher arrives. | 05 | L→R |
@@ -17,8 +17,9 @@ between a world tour and a product carousel.
 
 True everywhere, never contradicted:
 
-1. **Everything is printed and knows it.** The rings on your body are a birthmark, not a
-   defect. Being smooth is obscene, and everyone is being very polite about Kit.
+1. **Everything printed on a Toybox arrives here and knows it.** The rings on your body are
+   a birthmark, not a defect. Being smooth is obscene, and everyone is being very polite
+   about Kit.
 2. **The rivers** run between all regions — slow, warm, semi-molten, colour shifting along
    their length. They are the only transport network. They are potable, load-bearing and
    sacred, **in that order**.
@@ -30,8 +31,8 @@ True everywhere, never contradicted:
 5. **Weather is human activity.** A drawer closing is thunder. A lamp is sunrise. A window
    opening is a storm front. The toys have a full theology built on misreading this, and
    Kit recognises every single one and says nothing.
-6. **The Hand** is the god on the horizon — a colossal nozzle that builds new life one
-   glowing layer at a time. Nobody knows what it's making. It has never stopped.
+6. **The Hand** is the god on the horizon — a colossal maker-arm that lays down new life
+   one glowing line at a time. Nobody knows what it's making. It has never stopped.
 
    At **SH-043**, it stops.
 
